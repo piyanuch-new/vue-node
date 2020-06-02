@@ -16,10 +16,7 @@
           </li>
           <li>
             <a href="/line-api">Line API</a>
-          </li>
-          <li>
-            <a href="/express-js">Express.js</a>
-          </li>            
+          </li>       
         </ul>
     </nav>
   </header>
